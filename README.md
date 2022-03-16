@@ -3,3 +3,5 @@
 20/05/2021
 
 Predictive mining was conducted on a range of health-care data sets, including patient data and COVID-19 positive patient flight path data.
+
+Insights were derived from the the data to better understand patient scenarios and how to better attend to their  and the publics needs
